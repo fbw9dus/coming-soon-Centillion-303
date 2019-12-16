@@ -1,0 +1,43 @@
+#left{
+    background-image: url(https://images.pexels.com/photos/2397649/pexels-photo-2397649.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    
+     height: 75vh;
+    }
+
+
+#list{
+    color: black;
+    margin-top: 20vh;
+    border: none;
+    
+}
+
+#list>li{
+    font-weight: 600;
+    font-size: 25px;
+    background: transparent;
+    border: none;
+}
+
+#list>li>span{
+    font-size: 35px;
+}
+
+#right {
+    background-color:#d9d9d9;
+    height: 75vh;
+}
+
+#content{
+    margin-top: 25vh;
+    margin-left: 20px;
+}
+
+div p {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.btn{
+    border-radius: 50px !important;
+}
